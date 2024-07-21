@@ -69,10 +69,10 @@
     "@pixi/mesh": "^7.0.0"
   },
   "devDependencies": {
-    "@pixi/core": "^7.0.0",
-    "@pixi/display": "^7.0.0",
-    "@pixi/extension-scripts": "^1.8.1",
-    "@pixi/layers": "^2.0.1",
-    "@pixi/mesh": "^7.0.0"
+    "@pixi/core": "^7.4.2",
+    "@pixi/display": "^7.4.2",
+    "@pixi/extension-scripts": "^2.4.1",
+    "@pixi/layers": "^2.1.0",
+    "@pixi/mesh": "^7.4.2"
   }
 }
